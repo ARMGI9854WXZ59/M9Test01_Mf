@@ -80,7 +80,7 @@
   
 <!--🖼️SVG BANNER I LOVE HACKING / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <!-- <p align="center">
-<img src="https://github.com/D3vil0per/D3vil0per/raw/main/.images/banner.svg"  width="600">  -->
+<img src="https://github.com/ARMGI9854WXZ59/ARMGI9854WXZ59/raw/main/.images/banner.svg"  width="600">  -->
   
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <!-- <p align="center">
@@ -155,7 +155,7 @@
   
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <!-- <p align="center">
-<img src="https://komarev.com/ghpvc/?username=D3vil0per&color=0E9C47&style=for-the-badge"> -->
+<img src="https://komarev.com/ghpvc/?username=ARMGI9854WXZ59&color=0E9C47&style=for-the-badge"> -->
   
 
   
@@ -314,8 +314,8 @@ Athena OS</a>
    <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </tr>
  <!--  <tr>
-    <td><p align="center"><a href="https://github.com/D3vil0per?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
-    <td><p align="center"><a href="https://github.com/D3vil0per/D3vil0per/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
+    <td><p align="center"><a href="https://github.com/ARMGI9854WXZ59?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
+    <td><p align="center"><a href="https://github.com/ARMGI9854WXZ59/ARMGI9854WXZ59/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
   </tr> -->
  </table>
     
@@ -339,7 +339,7 @@ Athena OS</a>
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
  
 <!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/D3vil0per/D3vil0per/main/.images/footer.svg" width="100%">
+<img src="https://raw.githubusercontent.com/ARMGI9854WXZ59/ARMGI9854WXZ59/main/.images/footer.svg" width="100%">
 <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
@@ -407,7 +407,7 @@ Here are some ideas to get you started:
 -->
 
 <!--
-**D3vil0per/D3vil0per** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ARMGI9854WXZ59/ARMGI9854WXZ59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
