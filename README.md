@@ -1,6 +1,6 @@
 <!--### Hi there 👋 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BD3vil0p3r%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;D3vil0p3r%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=435&height=180&lines=nc+-lvnp+1337;listening+on+%5Bany%5D+1337+...;connect+to+%5BARMGI9854WXZ59%5D+profile;%24+script+%2Fdev%2Fnull+-c+bash;ARMGI9854WXZ59%40profile%3A~%24+.%2Fexploit;..............................;............PwN3d!............;..............................;..............................;..............................;..............................;..............................;)](https://git.io/typing-svg)
 
 &nbsp;
 <!--💬GREETINGSTITLE / FONTS: https://www.thefancytext.com/ and then paste on 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
@@ -22,11 +22,11 @@
   
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=D3vil0p3r&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=D3vil0p3r&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ARMGI9854WXZ59&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=ARMGI9854WXZ59&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
   
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=D3vil0p3r&layout=compact&theme=merko">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ARMGI9854WXZ59&layout=compact&theme=merko">
   
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Athena-OS&repo=athena&theme=merko">
@@ -39,13 +39,13 @@
   
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/D3vil0p3r/D3vil0p3r/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARMGI9854WXZ59/ARMGI9854WXZ59/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ARMGI9854WXZ59/ARMGI9854WXZ59/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ARMGI9854WXZ59/ARMGI9854WXZ59/output/github-contribution-grid-snake.svg" />
 </picture>
   
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=D3vil0p3r&theme=chartreuse-dark" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARMGI9854WXZ59&theme=chartreuse-dark" width="100%">
   
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 <!--<h4 align="right">
@@ -303,7 +303,7 @@ Athena OS</a>
 </h4>
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=D3vil0p3r&theme=matrix&no-frame=true&row=1&&margin-w=30&no-bg=true">
+<img src="https://github-profile-trophy.vercel.app/?username=ARMGI9854WXZ59&theme=matrix&no-frame=true&row=1&&margin-w=30&no-bg=true">
 <!--🖼️⭐🔱STARRED/FORK-->
 <h4 align="right">
  
